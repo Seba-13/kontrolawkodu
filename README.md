@@ -1,2 +1,2 @@
 # kontrolawkodu
-kwk
+pierwsze reposytorium na lekcji kontroli wersji kodu
